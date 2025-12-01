@@ -1,0 +1,70 @@
+# Louis Vision、Yatt、AYUMI – All I Want Is You
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+君が忘れた腕時計見つめながら
+最後に口にした言葉思い出してる
+もしかしたら自分のせいかもしれないけど
+つよがりな私のこと
+許してくれるから
+Baby all I want is you,
+all I want is you また涙がこぼれそうになる
+All I want is you,
+all I want is you, you're my everything
+出て行く君のことを止めず
+ただ心残りな今は...
+Baby all I want is you,
+all I want is you, all I want is you
+I feel like an ASTRONAUT
+きもちは in the SKY
+Way beyond the CLOUDS above
+Way above and I'm not from
+HOUSTON 出身でもないのに
+we used to RAP-A-LOT
+YOU＆I はいつか...
+いつか...なんて思い...
+Rock Rock the night away
+Cuz I-I don't really wanna
+Talk Talk 触れて欲しくない
+ないこともある
+Don't fight this feeling 今日は
+Good night 一夜だけ
+Let me forget forget
+about you 忘れられない
+about you
+二人でふざけてた頃の動画みても
+やりなおせる訳じゃないけど
+忘れたくもないはち切れそうな heart and soul
+いまさら願うよ叶わないのに
+one last thing, やりなおせるなら
+Baby all I want is you,
+all I want is you 今もその声聞きたくなる
+All I want is you,
+all I want is you, I'll do anything
+色褪せてくキミとの memories
+もうキミの肌に触れられない
+Baby all I want is you,
+all I want is you, all I want is you
+Someone, someone, Someone like you
+Someone, someone, Someone like you
+Only if I can... buy that time
+back I'd find, I'd find you and
+I'd find some ways to hold you back...back...
+Only if I can... buy that time
+back I'd find, I'd find you and
+I'd find some ways to hold you back...back...
+Baby all I want is you,
+all I want is you また涙がこぼれそうになる
+All I want is you,
+all I want is you, you're my everything
+この世の中どこ探しても
+あの「時」は取り戻せない
+Baby all I want is you,
+all I want is you, all I want is you
+I heard you're happy
+with another girl and that you
+were never looking back
+wish I can say the same and live my life
+でも今は一人きり
+```
