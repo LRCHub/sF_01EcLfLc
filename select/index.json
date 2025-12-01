@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "All I Want Is You",
+  "base_artist": "Louis Vision、Yatt、AYUMI",
+  "createdAt": "2025-12-01T07:04:27.673884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "Agnes",
+      "has_synced": true,
+      "path": "select/01_All_I_Want_Is_You_Agnes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "all I want is you",
+      "artist": "Rebzyyx",
+      "has_synced": true,
+      "path": "select/02_all_I_want_is_you_Rebzyyx.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/03_All_I_Want_Is_You_U2.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "Aslan",
+      "has_synced": false,
+      "path": "select/04_All_I_Want_Is_You_Aslan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/05_All_I_Want_Is_You_U2.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "Northern19",
+      "has_synced": true,
+      "path": "select/06_All_I_Want_Is_You_Northern19.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "Sarkodie",
+      "has_synced": true,
+      "path": "select/07_All_I_Want_Is_You_Sarkodie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All I want is you",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/08_All_I_want_is_you_U2.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All I Want is You",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/09_All_I_Want_is_You_U2.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/10_All_I_Want_Is_You_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "Sarkodie",
+      "has_synced": true,
+      "path": "select/11_All_I_Want_Is_You_Sarkodie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All I Want Is You",
+      "artist": "Planetshakers",
+      "has_synced": true,
+      "path": "select/12_All_I_Want_Is_You_Planetshakers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All i Want is You",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/pl_01_All_i_Want_is_You_m-flo.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "All I Want Is You",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/pl_02_All_I_Want_Is_You_m-flo.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "All I Want Is You",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/pl_03_All_I_Want_Is_You_m-flo.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ALL I WANT IS YOU",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/pl_04_ALL_I_WANT_IS_YOU_m-flo.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ALL I WANT IS YOU",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/pl_05_ALL_I_WANT_IS_YOU_m-flo.txt"
+    }
+  ]
+}
